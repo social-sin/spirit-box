@@ -1,4 +1,4 @@
-# spirit-box
+# Spirit Box
 Created in collaboration with Christian Alvarado and Julia Stalnaker, Spirit Box is a divination device that determines one's prophecy through photographic cards by utilizing a depth sensing AI kit by OpenCV and an object classification API to determine one's fortune.
 
 ## Installation
